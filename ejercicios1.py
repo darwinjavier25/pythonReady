@@ -1,4 +1,5 @@
 #escribir un codigo con dos variables que sume dos datos
+
 Dato = 23
 Minidato = 12
 print(Dato+Minidato)
@@ -8,5 +9,6 @@ apellido = " dominguez"
 print (nombre + apellido)
 #escribir una lista de 5 elementos
 lista = ["casa",2 , 5.5, False, (8, 9, 1)]
-git(commit)
-gitpush
+
+for i in lista:
+    print(i)
